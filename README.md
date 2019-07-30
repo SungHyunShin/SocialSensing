@@ -1,3 +1,7 @@
+# Paper
+
+This project was research for a paper regarding tweets at senators and subsequent voting in an Obamacare vote. The paper itself is labeled Social_Sensing.pdf.
+
 # File Structure
 
 All_Senator_Tweets/raw_tweets/: This directory contains all the tweets for each of the 100 senators within the time frame. They are not filtered to include those that talk about healthcare and they include non-English tweets.
